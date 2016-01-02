@@ -1,11 +1,12 @@
-# 目次
+目次
+===
 
-## [Introduction](README.md)
-## [最適化](optimization.md)
-## [プログラマの3大美徳](three-virtues.md)
-### [怠慢](three-virtues/laziness)
-### [短気](three-virtues/impatience)
-### [傲慢](three-virtues/hubris)
+* [Introduction](README.md)
+* [最適化](optimization.md)
+* [プログラマの3大美徳](three-virtues.md)
+    * [怠慢](three-virtues/laziness)
+    * [短気](three-virtues/impatience)
+    * [傲慢](three-virtues/hubris)
 
 今後掲載予定の単語
 ---
