@@ -1,7 +1,7 @@
 目次
 ===
 
-* [最適化](chapter1.md)
+* [最適化](optimization.md)
 
 掲載予定の単語
 ---
