@@ -2,7 +2,6 @@
 ===
 
 * [Introduction](README.md)
-* 
 * [最適化](optimization.md)
 * [プログラマの3大美徳](three-virtues.md)
     * [怠慢](three-virtues/laziness)
